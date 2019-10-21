@@ -190,4 +190,4 @@ async def on_ready():
     print('------')
 
 
-client.run('NjI5MjE4NzE5MzAxNjMyMDE5.XZWlnw.ikiKBI2z3GBrG4bt0cfgfBS6X0c')
+client.run('Nah fam')
