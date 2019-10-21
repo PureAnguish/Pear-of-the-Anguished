@@ -6,7 +6,7 @@ from discord.ext import commands
 from discord.ext.commands import bot
 import random
 
-TOKEN = 629218719301632019
+TOKEN = 65468126548721
 
 client = discord.Client()
 
